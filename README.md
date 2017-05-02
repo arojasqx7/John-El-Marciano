@@ -1,2 +1,3 @@
-# Prometeo-Encadenado
-Sistemas de Info III
+# John El Marciano
+Proyecto de Sistemas de Info III
+UIA - 2017
